@@ -3,6 +3,33 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
+#
+# # 国际源
+# thetvapp
+# https://raw.wangqifei.eu.org/thetvapp/thetvapplist.m3u
+https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+
+#
+# # 国内源
+# iptv_api项目源
+# https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.m3u
+
+https://raw.wangqifei.eu.org/rtp
+https://s.wangqifei.eu.org/live
+
+# TVCrazy
+https://raw.githubusercontent.com/fqw000/TVCrazy/refs/heads/main/output/itvlist.m3u
+
+
+# myiptv
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+# iptv-api
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+# gntv
+https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/GNTV.m3u
+
+# wkyilisha/zubo
+https://raw.githubusercontent.com/wkyilisha/zubo/e063c186e99dcc136ae435b87f9053f24061a5ad/iptv.txt
 
 
 
