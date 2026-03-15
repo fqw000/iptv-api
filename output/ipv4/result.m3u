@@ -1,193 +1,193 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/fqw000/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1-综合" tvg-logo="http://10.1.0.112:5180/logo/CCTV1-综合.png" group-title="🕘️更新时间",2026-03-15 20:35:49
-url
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1-综合" tvg-logo="http://10.1.0.112:5180/logo/CCTV1-综合.png" group-title="🈳无结果频道",CCTV1-综合
-url
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2-财经" tvg-logo="http://10.1.0.112:5180/logo/CCTV2-财经.png" group-title="🈳无结果频道",CCTV2-财经
-url
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3-综艺" tvg-logo="http://10.1.0.112:5180/logo/CCTV3-综艺.png" group-title="🈳无结果频道",CCTV3-综艺
-url
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4-国际" tvg-logo="http://10.1.0.112:5180/logo/CCTV4-国际.png" group-title="🈳无结果频道",CCTV4-国际
-url
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5-体育" tvg-logo="http://10.1.0.112:5180/logo/CCTV5-体育.png" group-title="🈳无结果频道",CCTV5-体育
-url
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+-体育赛事" tvg-logo="http://10.1.0.112:5180/logo/CCTV5+-体育赛事.png" group-title="🈳无结果频道",CCTV5+-体育赛事
-url
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6-电影" tvg-logo="http://10.1.0.112:5180/logo/CCTV6-电影.png" group-title="🈳无结果频道",CCTV6-电影
-url
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7-军农" tvg-logo="http://10.1.0.112:5180/logo/CCTV7-军农.png" group-title="🈳无结果频道",CCTV7-军农
-url
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8-电视剧" tvg-logo="http://10.1.0.112:5180/logo/CCTV8-电视剧.png" group-title="🈳无结果频道",CCTV8-电视剧
-url
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9-纪录" tvg-logo="http://10.1.0.112:5180/logo/CCTV9-纪录.png" group-title="🈳无结果频道",CCTV9-纪录
-url
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10-科教" tvg-logo="http://10.1.0.112:5180/logo/CCTV10-科教.png" group-title="🈳无结果频道",CCTV10-科教
-url
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11-戏曲" tvg-logo="http://10.1.0.112:5180/logo/CCTV11-戏曲.png" group-title="🈳无结果频道",CCTV11-戏曲
-url
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12-社会与法" tvg-logo="http://10.1.0.112:5180/logo/CCTV12-社会与法.png" group-title="🈳无结果频道",CCTV12-社会与法
-url
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13-新闻" tvg-logo="http://10.1.0.112:5180/logo/CCTV13-新闻.png" group-title="🈳无结果频道",CCTV13-新闻
-url
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14-少儿" tvg-logo="http://10.1.0.112:5180/logo/CCTV14-少儿.png" group-title="🈳无结果频道",CCTV14-少儿
-url
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15-音乐" tvg-logo="http://10.1.0.112:5180/logo/CCTV15-音乐.png" group-title="🈳无结果频道",CCTV15-音乐
-url
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV16-体育" tvg-logo="http://10.1.0.112:5180/logo/CCTV16-体育.png" group-title="🈳无结果频道",CCTV16-体育
-url
-#EXTINF:-1 tvg-id="18" tvg-name="CCTV17-农业农村" tvg-logo="http://10.1.0.112:5180/logo/CCTV17-农业农村.png" group-title="🈳无结果频道",CCTV17-农业农村
-url
-#EXTINF:-1 tvg-id="19" tvg-name="CCTV4k-美洲" tvg-logo="http://10.1.0.112:5180/logo/CCTV4k-美洲.png" group-title="🈳无结果频道",CCTV4k-美洲
-url
-#EXTINF:-1 tvg-id="20" tvg-name="CCTV4K-欧洲" tvg-logo="http://10.1.0.112:5180/logo/CCTV4K-欧洲.png" group-title="🈳无结果频道",CCTV4K-欧洲
-url
-#EXTINF:-1 tvg-id="21" tvg-name="CCTV4K" tvg-logo="http://10.1.0.112:5180/logo/CCTV4K.png" group-title="🈳无结果频道",CCTV4K
-url
-#EXTINF:-1 tvg-id="22" tvg-name="CCTV8K" tvg-logo="http://10.1.0.112:5180/logo/CCTV8K.png" group-title="🈳无结果频道",CCTV8K
-url
-#EXTINF:-1 tvg-id="23" tvg-name="河北卫视" tvg-logo="http://10.1.0.112:5180/logo/河北卫视.png" group-title="🈳无结果频道",河北卫视
-url
-#EXTINF:-1 tvg-id="24" tvg-name="山西卫视" tvg-logo="http://10.1.0.112:5180/logo/山西卫视.png" group-title="🈳无结果频道",山西卫视
-url
-#EXTINF:-1 tvg-id="25" tvg-name="辽宁卫视" tvg-logo="http://10.1.0.112:5180/logo/辽宁卫视.png" group-title="🈳无结果频道",辽宁卫视
-url
-#EXTINF:-1 tvg-id="26" tvg-name="吉林卫视" tvg-logo="http://10.1.0.112:5180/logo/吉林卫视.png" group-title="🈳无结果频道",吉林卫视
-url
-#EXTINF:-1 tvg-id="27" tvg-name="黑龙江卫视" tvg-logo="http://10.1.0.112:5180/logo/黑龙江卫视.png" group-title="🈳无结果频道",黑龙江卫视
-url
-#EXTINF:-1 tvg-id="28" tvg-name="江苏卫视" tvg-logo="http://10.1.0.112:5180/logo/江苏卫视.png" group-title="🈳无结果频道",江苏卫视
-url
-#EXTINF:-1 tvg-id="29" tvg-name="浙江卫视" tvg-logo="http://10.1.0.112:5180/logo/浙江卫视.png" group-title="🈳无结果频道",浙江卫视
-url
-#EXTINF:-1 tvg-id="30" tvg-name="安徽卫视" tvg-logo="http://10.1.0.112:5180/logo/安徽卫视.png" group-title="🈳无结果频道",安徽卫视
-url
-#EXTINF:-1 tvg-id="31" tvg-name="福建卫视" tvg-logo="http://10.1.0.112:5180/logo/福建卫视.png" group-title="🈳无结果频道",福建卫视
-url
-#EXTINF:-1 tvg-id="32" tvg-name="江西卫视" tvg-logo="http://10.1.0.112:5180/logo/江西卫视.png" group-title="🈳无结果频道",江西卫视
-url
-#EXTINF:-1 tvg-id="33" tvg-name="山东卫视" tvg-logo="http://10.1.0.112:5180/logo/山东卫视.png" group-title="🈳无结果频道",山东卫视
-url
-#EXTINF:-1 tvg-id="34" tvg-name="河南卫视" tvg-logo="http://10.1.0.112:5180/logo/河南卫视.png" group-title="🈳无结果频道",河南卫视
-url
-#EXTINF:-1 tvg-id="35" tvg-name="湖北卫视" tvg-logo="http://10.1.0.112:5180/logo/湖北卫视.png" group-title="🈳无结果频道",湖北卫视
-url
-#EXTINF:-1 tvg-id="36" tvg-name="湖南卫视" tvg-logo="http://10.1.0.112:5180/logo/湖南卫视.png" group-title="🈳无结果频道",湖南卫视
-url
-#EXTINF:-1 tvg-id="37" tvg-name="广东卫视" tvg-logo="http://10.1.0.112:5180/logo/广东卫视.png" group-title="🈳无结果频道",广东卫视
-url
-#EXTINF:-1 tvg-id="38" tvg-name="海南卫视" tvg-logo="http://10.1.0.112:5180/logo/海南卫视.png" group-title="🈳无结果频道",海南卫视
-url
-#EXTINF:-1 tvg-id="39" tvg-name="四川卫视" tvg-logo="http://10.1.0.112:5180/logo/四川卫视.png" group-title="🈳无结果频道",四川卫视
-url
-#EXTINF:-1 tvg-id="40" tvg-name="贵州卫视" tvg-logo="http://10.1.0.112:5180/logo/贵州卫视.png" group-title="🈳无结果频道",贵州卫视
-url
-#EXTINF:-1 tvg-id="41" tvg-name="云南卫视" tvg-logo="http://10.1.0.112:5180/logo/云南卫视.png" group-title="🈳无结果频道",云南卫视
-url
-#EXTINF:-1 tvg-id="42" tvg-name="陕西卫视" tvg-logo="http://10.1.0.112:5180/logo/陕西卫视.png" group-title="🈳无结果频道",陕西卫视
-url
-#EXTINF:-1 tvg-id="43" tvg-name="甘肃卫视" tvg-logo="http://10.1.0.112:5180/logo/甘肃卫视.png" group-title="🈳无结果频道",甘肃卫视
-url
-#EXTINF:-1 tvg-id="44" tvg-name="青海卫视" tvg-logo="http://10.1.0.112:5180/logo/青海卫视.png" group-title="🈳无结果频道",青海卫视
-url
-#EXTINF:-1 tvg-id="45" tvg-name="台湾卫视" tvg-logo="http://10.1.0.112:5180/logo/台湾卫视.png" group-title="🈳无结果频道",台湾卫视
-url
-#EXTINF:-1 tvg-id="46" tvg-name="内蒙古卫视" tvg-logo="http://10.1.0.112:5180/logo/内蒙古卫视.png" group-title="🈳无结果频道",内蒙古卫视
-url
-#EXTINF:-1 tvg-id="47" tvg-name="广西卫视" tvg-logo="http://10.1.0.112:5180/logo/广西卫视.png" group-title="🈳无结果频道",广西卫视
-url
-#EXTINF:-1 tvg-id="48" tvg-name="西藏卫视" tvg-logo="http://10.1.0.112:5180/logo/西藏卫视.png" group-title="🈳无结果频道",西藏卫视
-url
-#EXTINF:-1 tvg-id="49" tvg-name="宁夏卫视" tvg-logo="http://10.1.0.112:5180/logo/宁夏卫视.png" group-title="🈳无结果频道",宁夏卫视
-url
-#EXTINF:-1 tvg-id="50" tvg-name="新疆卫视" tvg-logo="http://10.1.0.112:5180/logo/新疆卫视.png" group-title="🈳无结果频道",新疆卫视
-url
-#EXTINF:-1 tvg-id="51" tvg-name="北京卫视" tvg-logo="http://10.1.0.112:5180/logo/北京卫视.png" group-title="🈳无结果频道",北京卫视
-url
-#EXTINF:-1 tvg-id="52" tvg-name="天津卫视" tvg-logo="http://10.1.0.112:5180/logo/天津卫视.png" group-title="🈳无结果频道",天津卫视
-url
-#EXTINF:-1 tvg-id="53" tvg-name="上海卫视" tvg-logo="http://10.1.0.112:5180/logo/上海卫视.png" group-title="🈳无结果频道",上海卫视
-url
-#EXTINF:-1 tvg-id="54" tvg-name="重庆卫视" tvg-logo="http://10.1.0.112:5180/logo/重庆卫视.png" group-title="🈳无结果频道",重庆卫视
-url
-#EXTINF:-1 tvg-id="55" tvg-name="星空卫视" tvg-logo="http://10.1.0.112:5180/logo/星空卫视.png" group-title="🈳无结果频道",星空卫视
-url
-#EXTINF:-1 tvg-id="56" tvg-name="大湾区卫视" tvg-logo="http://10.1.0.112:5180/logo/大湾区卫视.png" group-title="🈳无结果频道",大湾区卫视
-url
-#EXTINF:-1 tvg-id="57" tvg-name="三沙卫视" tvg-logo="http://10.1.0.112:5180/logo/三沙卫视.png" group-title="🈳无结果频道",三沙卫视
-url
-#EXTINF:-1 tvg-id="58" tvg-name="保定卫视" tvg-logo="http://10.1.0.112:5180/logo/保定卫视.png" group-title="🈳无结果频道",保定卫视
-url
-#EXTINF:-1 tvg-id="59" tvg-name="兵团卫视" tvg-logo="http://10.1.0.112:5180/logo/兵团卫视.png" group-title="🈳无结果频道",兵团卫视
-url
-#EXTINF:-1 tvg-id="60" tvg-name="延边卫视" tvg-logo="http://10.1.0.112:5180/logo/延边卫视.png" group-title="🈳无结果频道",延边卫视
-url
-#EXTINF:-1 tvg-id="61" tvg-name="东方卫视" tvg-logo="http://10.1.0.112:5180/logo/东方卫视.png" group-title="🈳无结果频道",东方卫视
-url
-#EXTINF:-1 tvg-id="62" tvg-name="东南卫视" tvg-logo="http://10.1.0.112:5180/logo/东南卫视.png" group-title="🈳无结果频道",东南卫视
-url
-#EXTINF:-1 tvg-id="63" tvg-name="凤凰卫视" tvg-logo="http://10.1.0.112:5180/logo/凤凰卫视.png" group-title="🈳无结果频道",凤凰卫视
-url
-#EXTINF:-1 tvg-id="64" tvg-name="广东大湾区卫视" tvg-logo="http://10.1.0.112:5180/logo/广东大湾区卫视.png" group-title="🈳无结果频道",广东大湾区卫视
-url
-#EXTINF:-1 tvg-id="65" tvg-name="广东南方卫视" tvg-logo="http://10.1.0.112:5180/logo/广东南方卫视.png" group-title="🈳无结果频道",广东南方卫视
-url
-#EXTINF:-1 tvg-id="66" tvg-name="厦门卫视" tvg-logo="http://10.1.0.112:5180/logo/厦门卫视.png" group-title="🈳无结果频道",厦门卫视
-url
-#EXTINF:-1 tvg-id="67" tvg-name="河东卫视" tvg-logo="http://10.1.0.112:5180/logo/河东卫视.png" group-title="🈳无结果频道",河东卫视
-url
-#EXTINF:-1 tvg-id="68" tvg-name="河西卫视" tvg-logo="http://10.1.0.112:5180/logo/河西卫视.png" group-title="🈳无结果频道",河西卫视
-url
-#EXTINF:-1 tvg-id="69" tvg-name="黄河卫视" tvg-logo="http://10.1.0.112:5180/logo/黄河卫视.png" group-title="🈳无结果频道",黄河卫视
-url
-#EXTINF:-1 tvg-id="70" tvg-name="吉林延边卫视" tvg-logo="http://10.1.0.112:5180/logo/吉林延边卫视.png" group-title="🈳无结果频道",吉林延边卫视
-url
-#EXTINF:-1 tvg-id="71" tvg-name="蓟州卫视" tvg-logo="http://10.1.0.112:5180/logo/蓟州卫视.png" group-title="🈳无结果频道",蓟州卫视
-url
-#EXTINF:-1 tvg-id="72" tvg-name="静海卫视" tvg-logo="http://10.1.0.112:5180/logo/静海卫视.png" group-title="🈳无结果频道",静海卫视
-url
-#EXTINF:-1 tvg-id="73" tvg-name="康巴卫视" tvg-logo="http://10.1.0.112:5180/logo/康巴卫视.png" group-title="🈳无结果频道",康巴卫视
-url
-#EXTINF:-1 tvg-id="74" tvg-name="旅游卫视" tvg-logo="http://10.1.0.112:5180/logo/旅游卫视.png" group-title="🈳无结果频道",旅游卫视
-url
-#EXTINF:-1 tvg-id="75" tvg-name="南方卫视" tvg-logo="http://10.1.0.112:5180/logo/南方卫视.png" group-title="🈳无结果频道",南方卫视
-url
-#EXTINF:-1 tvg-id="76" tvg-name="农林卫视" tvg-logo="http://10.1.0.112:5180/logo/农林卫视.png" group-title="🈳无结果频道",农林卫视
-url
-#EXTINF:-1 tvg-id="77" tvg-name="深圳卫视" tvg-logo="http://10.1.0.112:5180/logo/深圳卫视.png" group-title="🈳无结果频道",深圳卫视
-url
-#EXTINF:-1 tvg-id="78" tvg-name="广东珠江" tvg-logo="http://10.1.0.112:5180/logo/广东珠江.png" group-title="🈳无结果频道",广东珠江
-url
-#EXTINF:-1 tvg-id="79" tvg-name="广东体育" tvg-logo="http://10.1.0.112:5180/logo/广东体育.png" group-title="🈳无结果频道",广东体育
-url
-#EXTINF:-1 tvg-id="80" tvg-name="广东新闻" tvg-logo="http://10.1.0.112:5180/logo/广东新闻.png" group-title="🈳无结果频道",广东新闻
-url
-#EXTINF:-1 tvg-id="37" tvg-name="广东卫视" tvg-logo="http://10.1.0.112:5180/logo/广东卫视.png" group-title="🈳无结果频道",广东卫视
-url
-#EXTINF:-1 tvg-id="81" tvg-name="广东民生" tvg-logo="http://10.1.0.112:5180/logo/广东民生.png" group-title="🈳无结果频道",广东民生
-url
-#EXTINF:-1 tvg-id="56" tvg-name="大湾区卫视" tvg-logo="http://10.1.0.112:5180/logo/大湾区卫视.png" group-title="🈳无结果频道",大湾区卫视
-url
-#EXTINF:-1 tvg-id="82" tvg-name="广州综合" tvg-logo="http://10.1.0.112:5180/logo/广州综合.png" group-title="🈳无结果频道",广州综合
-url
-#EXTINF:-1 tvg-id="83" tvg-name="广州影视" tvg-logo="http://10.1.0.112:5180/logo/广州影视.png" group-title="🈳无结果频道",广州影视
-url
-#EXTINF:-1 tvg-id="84" tvg-name="广州竞赛" tvg-logo="http://10.1.0.112:5180/logo/广州竞赛.png" group-title="🈳无结果频道",广州竞赛
-url
-#EXTINF:-1 tvg-id="85" tvg-name="江门综合" tvg-logo="http://10.1.0.112:5180/logo/江门综合.png" group-title="🈳无结果频道",江门综合
-url
-#EXTINF:-1 tvg-id="86" tvg-name="江门侨乡生活" tvg-logo="http://10.1.0.112:5180/logo/江门侨乡生活.png" group-title="🈳无结果频道",江门侨乡生活
-url
-#EXTINF:-1 tvg-id="87" tvg-name="佛山综合" tvg-logo="http://10.1.0.112:5180/logo/佛山综合.png" group-title="🈳无结果频道",佛山综合
-url
-#EXTINF:-1 tvg-id="77" tvg-name="深圳卫视" tvg-logo="http://10.1.0.112:5180/logo/深圳卫视.png" group-title="🈳无结果频道",深圳卫视
-url
-#EXTINF:-1 tvg-id="88" tvg-name="汕头综合" tvg-logo="http://10.1.0.112:5180/logo/汕头综合.png" group-title="🈳无结果频道",汕头综合
-url
-#EXTINF:-1 tvg-id="89" tvg-name="汕头经济" tvg-logo="http://10.1.0.112:5180/logo/汕头经济.png" group-title="🈳无结果频道",汕头经济
-url
-#EXTINF:-1 tvg-id="90" tvg-name="汕头文旅" tvg-logo="http://10.1.0.112:5180/logo/汕头文旅.png" group-title="🈳无结果频道",汕头文旅
-url
-#EXTINF:-1 tvg-id="91" tvg-name="茂名综合" tvg-logo="http://10.1.0.112:5180/logo/茂名综合.png" group-title="🈳无结果频道",茂名综合
-url
-#EXTINF:-1 tvg-id="92" tvg-name="茂名公共" tvg-logo="http://10.1.0.112:5180/logo/茂名公共.png" group-title="🈳无结果频道",茂名公共
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1-综合" tvg-logo="http://10.1.0.201:5180/logo/CCTV1-综合.png" group-title="🕘️更新时间",2026-03-15 20:51:30
+http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1-综合" tvg-logo="http://10.1.0.201:5180/logo/CCTV1-综合.png" group-title="📺央视频道",CCTV1-综合
+http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2-财经" tvg-logo="http://10.1.0.201:5180/logo/CCTV2-财经.png" group-title="📺央视频道",CCTV2-财经
+http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3-综艺" tvg-logo="http://10.1.0.201:5180/logo/CCTV3-综艺.png" group-title="📺央视频道",CCTV3-综艺
+http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4-国际" tvg-logo="http://10.1.0.201:5180/logo/CCTV4-国际.png" group-title="📺央视频道",CCTV4-国际
+http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5-体育" tvg-logo="http://10.1.0.201:5180/logo/CCTV5-体育.png" group-title="📺央视频道",CCTV5-体育
+http://107.150.60.122/live/cctv5hd.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+-体育赛事" tvg-logo="http://10.1.0.201:5180/logo/CCTV5+-体育赛事.png" group-title="📺央视频道",CCTV5+-体育赛事
+http://107.150.60.122/live/cctv5p.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6-电影" tvg-logo="http://10.1.0.201:5180/logo/CCTV6-电影.png" group-title="📺央视频道",CCTV6-电影
+http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7-军农" tvg-logo="http://10.1.0.201:5180/logo/CCTV7-军农.png" group-title="📺央视频道",CCTV7-军农
+http://74.91.26.218:82/live/cctv7hd.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8-电视剧" tvg-logo="http://10.1.0.201:5180/logo/CCTV8-电视剧.png" group-title="📺央视频道",CCTV8-电视剧
+http://107.150.60.122/live/cctv8k.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9-纪录" tvg-logo="http://10.1.0.201:5180/logo/CCTV9-纪录.png" group-title="📺央视频道",CCTV9-纪录
+http://107.150.60.122/live/cctv9hd.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10-科教" tvg-logo="http://10.1.0.201:5180/logo/CCTV10-科教.png" group-title="📺央视频道",CCTV10-科教
+http://107.150.60.122/live/cctv10hd.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11-戏曲" tvg-logo="http://10.1.0.201:5180/logo/CCTV11-戏曲.png" group-title="📺央视频道",CCTV11-戏曲
+http://74.91.26.218:82/live/cctv11hd.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12-社会与法" tvg-logo="http://10.1.0.201:5180/logo/CCTV12-社会与法.png" group-title="📺央视频道",CCTV12-社会与法
+http://23.237.228.134/live3/CCTV12.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13-新闻" tvg-logo="http://10.1.0.201:5180/logo/CCTV13-新闻.png" group-title="📺央视频道",CCTV13-新闻
+http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14-少儿" tvg-logo="http://10.1.0.201:5180/logo/CCTV14-少儿.png" group-title="📺央视频道",CCTV14-少儿
+http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15-音乐" tvg-logo="http://10.1.0.201:5180/logo/CCTV15-音乐.png" group-title="📺央视频道",CCTV15-音乐
+http://107.150.60.122/live/cctv15hd.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV16-体育" tvg-logo="http://10.1.0.201:5180/logo/CCTV16-体育.png" group-title="📺央视频道",CCTV16-体育
+http://123.175.209.56:9003/hls/17/index.m3u8
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV17-农业农村" tvg-logo="http://10.1.0.201:5180/logo/CCTV17-农业农村.png" group-title="📺央视频道",CCTV17-农业农村
+http://74.91.26.218:82/live/cctv17hd.m3u8
+#EXTINF:-1 tvg-id="19" tvg-name="CCTV4k-美洲" tvg-logo="http://10.1.0.201:5180/logo/CCTV4k-美洲.png" group-title="📺央视频道",CCTV4k-美洲
+http://27.17.212.242:8888/rtp/239.69.1.232:11034
+#EXTINF:-1 tvg-id="20" tvg-name="CCTV4K-欧洲" tvg-logo="http://10.1.0.201:5180/logo/CCTV4K-欧洲.png" group-title="📺央视频道",CCTV4K-欧洲
+http://144.0.57.58:7004/rtp/239.21.2.28:5002
+#EXTINF:-1 tvg-id="21" tvg-name="CCTV4K" tvg-logo="http://10.1.0.201:5180/logo/CCTV4K.png" group-title="📺央视频道",CCTV4K
+http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
+#EXTINF:-1 tvg-id="22" tvg-name="河北卫视" tvg-logo="http://10.1.0.201:5180/logo/河北卫视.png" group-title="📡卫视频道",河北卫视
+http://38.75.136.137:98/gslb/dsdqpub/hewshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="23" tvg-name="山西卫视" tvg-logo="http://10.1.0.201:5180/logo/山西卫视.png" group-title="📡卫视频道",山西卫视
+https://iptv.catvod.com/live.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86&line=1
+#EXTINF:-1 tvg-id="24" tvg-name="辽宁卫视" tvg-logo="http://10.1.0.201:5180/logo/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
+http://107.150.60.122/live/lnwshd.m3u8
+#EXTINF:-1 tvg-id="25" tvg-name="吉林卫视" tvg-logo="http://10.1.0.201:5180/logo/吉林卫视.png" group-title="📡卫视频道",吉林卫视
+http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="26" tvg-name="黑龙江卫视" tvg-logo="http://10.1.0.201:5180/logo/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
+http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="27" tvg-name="江苏卫视" tvg-logo="http://10.1.0.201:5180/logo/江苏卫视.png" group-title="📡卫视频道",江苏卫视
+http://38.75.136.137:98/gslb/dsdqpub/jswshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://10.1.0.201:5180/logo/浙江卫视.png" group-title="📡卫视频道",浙江卫视
+http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="安徽卫视" tvg-logo="http://10.1.0.201:5180/logo/安徽卫视.png" group-title="📡卫视频道",安徽卫视
+http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="30" tvg-name="福建卫视" tvg-logo="http://10.1.0.201:5180/logo/福建卫视.png" group-title="📡卫视频道",福建卫视
+http://123.175.209.56:9003/hls/24/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="江西卫视" tvg-logo="http://10.1.0.201:5180/logo/江西卫视.png" group-title="📡卫视频道",江西卫视
+http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="32" tvg-name="山东卫视" tvg-logo="http://10.1.0.201:5180/logo/山东卫视.png" group-title="📡卫视频道",山东卫视
+http://112.80.117.62:9003/hls/28/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="河南卫视" tvg-logo="http://10.1.0.201:5180/logo/河南卫视.png" group-title="📡卫视频道",河南卫视
+http://1.94.31.214/php/hntv.php?id=hnws
+#EXTINF:-1 tvg-id="34" tvg-name="湖北卫视" tvg-logo="http://10.1.0.201:5180/logo/湖北卫视.png" group-title="📡卫视频道",湖北卫视
+http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="35" tvg-name="湖南卫视" tvg-logo="http://10.1.0.201:5180/logo/湖南卫视.png" group-title="📡卫视频道",湖南卫视
+http://69.30.246.194/live/hnws.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="广东卫视" tvg-logo="http://10.1.0.201:5180/logo/广东卫视.png" group-title="📡卫视频道",广东卫视
+https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
+#EXTINF:-1 tvg-id="37" tvg-name="海南卫视" tvg-logo="http://10.1.0.201:5180/logo/海南卫视.png" group-title="📡卫视频道",海南卫视
+https://iptv.catvod.com/live.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&line=1
+#EXTINF:-1 tvg-id="38" tvg-name="四川卫视" tvg-logo="http://10.1.0.201:5180/logo/四川卫视.png" group-title="📡卫视频道",四川卫视
+http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="39" tvg-name="贵州卫视" tvg-logo="http://10.1.0.201:5180/logo/贵州卫视.png" group-title="📡卫视频道",贵州卫视
+http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="40" tvg-name="云南卫视" tvg-logo="http://10.1.0.201:5180/logo/云南卫视.png" group-title="📡卫视频道",云南卫视
+http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="41" tvg-name="陕西卫视" tvg-logo="http://10.1.0.201:5180/logo/陕西卫视.png" group-title="📡卫视频道",陕西卫视
+http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://10.1.0.201:5180/logo/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
+http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="43" tvg-name="青海卫视" tvg-logo="http://10.1.0.201:5180/logo/青海卫视.png" group-title="📡卫视频道",青海卫视
+http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="44" tvg-name="内蒙古卫视" tvg-logo="http://10.1.0.201:5180/logo/内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
+https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-id="45" tvg-name="广西卫视" tvg-logo="http://10.1.0.201:5180/logo/广西卫视.png" group-title="📡卫视频道",广西卫视
+http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="46" tvg-name="西藏卫视" tvg-logo="http://10.1.0.201:5180/logo/西藏卫视.png" group-title="📡卫视频道",西藏卫视
+http://107.150.60.122/live/xzws.m3u8
+#EXTINF:-1 tvg-id="47" tvg-name="宁夏卫视" tvg-logo="http://10.1.0.201:5180/logo/宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
+http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="48" tvg-name="新疆卫视" tvg-logo="http://10.1.0.201:5180/logo/新疆卫视.png" group-title="📡卫视频道",新疆卫视
+http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="49" tvg-name="北京卫视" tvg-logo="http://10.1.0.201:5180/logo/北京卫视.png" group-title="📡卫视频道",北京卫视
+http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="50" tvg-name="天津卫视" tvg-logo="http://10.1.0.201:5180/logo/天津卫视.png" group-title="📡卫视频道",天津卫视
+http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="51" tvg-name="上海卫视" tvg-logo="http://10.1.0.201:5180/logo/上海卫视.png" group-title="📡卫视频道",上海卫视
+http://112.27.235.94:8000/hls/28/index.m3u8
+#EXTINF:-1 tvg-id="52" tvg-name="重庆卫视" tvg-logo="http://10.1.0.201:5180/logo/重庆卫视.png" group-title="📡卫视频道",重庆卫视
+http://107.150.60.122/live/cqwshd.m3u8
+#EXTINF:-1 tvg-id="53" tvg-name="大湾区卫视" tvg-logo="http://10.1.0.201:5180/logo/大湾区卫视.png" group-title="📡卫视频道",大湾区卫视
+https://iptv.catvod.com/live.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&line=3
+#EXTINF:-1 tvg-id="54" tvg-name="三沙卫视" tvg-logo="http://10.1.0.201:5180/logo/三沙卫视.png" group-title="📡卫视频道",三沙卫视
+https://iptv.catvod.com/live.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86&line=1
+#EXTINF:-1 tvg-id="55" tvg-name="兵团卫视" tvg-logo="http://10.1.0.201:5180/logo/兵团卫视.png" group-title="📡卫视频道",兵团卫视
+http://38.75.136.137:98/gslb/dsdqpub/btws.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="56" tvg-name="延边卫视" tvg-logo="http://10.1.0.201:5180/logo/延边卫视.png" group-title="📡卫视频道",延边卫视
+https://srs.iyb983.cn/video/CYS/index.m3u8
+#EXTINF:-1 tvg-id="57" tvg-name="东方卫视" tvg-logo="http://10.1.0.201:5180/logo/东方卫视.png" group-title="📡卫视频道",东方卫视
+https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
+#EXTINF:-1 tvg-id="58" tvg-name="东南卫视" tvg-logo="http://10.1.0.201:5180/logo/东南卫视.png" group-title="📡卫视频道",东南卫视
+http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="59" tvg-name="凤凰卫视" tvg-logo="http://10.1.0.201:5180/logo/凤凰卫视.png" group-title="📡卫视频道",凤凰卫视
+http://122.152.202.33/s/81a8a44f/index.m3u8?id=15
+#EXTINF:-1 tvg-id="60" tvg-name="厦门卫视" tvg-logo="http://10.1.0.201:5180/logo/厦门卫视.png" group-title="📡卫视频道",厦门卫视
+http://38.75.136.137:98/gslb/dsdqpub/xmws.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="61" tvg-name="农林卫视" tvg-logo="http://10.1.0.201:5180/logo/农林卫视.png" group-title="📡卫视频道",农林卫视
+http://120.76.248.139/live/bfgd/4200000122.m3u8
+#EXTINF:-1 tvg-id="62" tvg-name="深圳卫视" tvg-logo="http://10.1.0.201:5180/logo/深圳卫视.png" group-title="📡卫视频道",深圳卫视
+http://107.150.60.122/live/szwshd.m3u8
+#EXTINF:-1 tvg-id="63" tvg-name="广东珠江" tvg-logo="http://10.1.0.201:5180/logo/广东珠江.png" group-title="☘️广东频道",广东珠江
+http://14.118.74.55:10001/rtp/239.77.0.114:5146
+#EXTINF:-1 tvg-id="64" tvg-name="广东体育" tvg-logo="http://10.1.0.201:5180/logo/广东体育.png" group-title="☘️广东频道",广东体育
+http://14.118.74.55:10001/rtp/239.77.0.112:5146
+#EXTINF:-1 tvg-id="65" tvg-name="广东新闻" tvg-logo="http://10.1.0.201:5180/logo/广东新闻.png" group-title="☘️广东频道",广东新闻
+http://14.118.74.55:10001/rtp/239.77.0.173:5146
+#EXTINF:-1 tvg-id="66" tvg-name="广东民生" tvg-logo="http://10.1.0.201:5180/logo/广东民生.png" group-title="☘️广东频道",广东民生
+http://14.118.74.55:10001/rtp/239.77.0.225:5146
+#EXTINF:-1 tvg-id="67" tvg-name="广州综合" tvg-logo="http://10.1.0.201:5180/logo/广州综合.png" group-title="☘️广东频道",广州综合
+http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+#EXTINF:-1 tvg-id="68" tvg-name="广州竞赛" tvg-logo="http://10.1.0.201:5180/logo/广州竞赛.png" group-title="☘️广东频道",广州竞赛
+http://8.138.7.223/tv/gzjs.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="江门综合" tvg-logo="http://10.1.0.201:5180/logo/江门综合.png" group-title="☘️广东频道",江门综合
+http://14.118.74.55:10001/rtp/239.77.0.201:5146
+#EXTINF:-1 tvg-id="70" tvg-name="佛山综合" tvg-logo="http://10.1.0.201:5180/logo/佛山综合.png" group-title="☘️广东频道",佛山综合
+http://14.118.74.55:10001/rtp/239.253.43.57:5146
+#EXTINF:-1 tvg-id="71" tvg-name="汕头综合" tvg-logo="http://10.1.0.201:5180/logo/汕头综合.png" group-title="☘️广东频道",汕头综合
+http://14.118.74.55:10001/rtp/239.253.43.45:5146
+#EXTINF:-1 tvg-id="72" tvg-name="茂名综合" tvg-logo="http://10.1.0.201:5180/logo/茂名综合.png" group-title="☘️广东频道",茂名综合
+http://14.118.74.55:10001/rtp/239.77.0.206:5146
+#EXTINF:-1 tvg-id="73" tvg-name="CCTV8K" tvg-logo="http://10.1.0.201:5180/logo/CCTV8K.png" group-title="🈳无结果频道",CCTV8K
+url
+#EXTINF:-1 tvg-id="74" tvg-name="台湾卫视" tvg-logo="http://10.1.0.201:5180/logo/台湾卫视.png" group-title="🈳无结果频道",台湾卫视
+url
+#EXTINF:-1 tvg-id="75" tvg-name="星空卫视" tvg-logo="http://10.1.0.201:5180/logo/星空卫视.png" group-title="🈳无结果频道",星空卫视
+url
+#EXTINF:-1 tvg-id="76" tvg-name="保定卫视" tvg-logo="http://10.1.0.201:5180/logo/保定卫视.png" group-title="🈳无结果频道",保定卫视
+url
+#EXTINF:-1 tvg-id="77" tvg-name="广东大湾区卫视" tvg-logo="http://10.1.0.201:5180/logo/广东大湾区卫视.png" group-title="🈳无结果频道",广东大湾区卫视
+url
+#EXTINF:-1 tvg-id="78" tvg-name="广东南方卫视" tvg-logo="http://10.1.0.201:5180/logo/广东南方卫视.png" group-title="🈳无结果频道",广东南方卫视
+url
+#EXTINF:-1 tvg-id="79" tvg-name="河东卫视" tvg-logo="http://10.1.0.201:5180/logo/河东卫视.png" group-title="🈳无结果频道",河东卫视
+url
+#EXTINF:-1 tvg-id="80" tvg-name="河西卫视" tvg-logo="http://10.1.0.201:5180/logo/河西卫视.png" group-title="🈳无结果频道",河西卫视
+url
+#EXTINF:-1 tvg-id="81" tvg-name="黄河卫视" tvg-logo="http://10.1.0.201:5180/logo/黄河卫视.png" group-title="🈳无结果频道",黄河卫视
+url
+#EXTINF:-1 tvg-id="82" tvg-name="吉林延边卫视" tvg-logo="http://10.1.0.201:5180/logo/吉林延边卫视.png" group-title="🈳无结果频道",吉林延边卫视
+url
+#EXTINF:-1 tvg-id="83" tvg-name="蓟州卫视" tvg-logo="http://10.1.0.201:5180/logo/蓟州卫视.png" group-title="🈳无结果频道",蓟州卫视
+url
+#EXTINF:-1 tvg-id="84" tvg-name="静海卫视" tvg-logo="http://10.1.0.201:5180/logo/静海卫视.png" group-title="🈳无结果频道",静海卫视
+url
+#EXTINF:-1 tvg-id="85" tvg-name="康巴卫视" tvg-logo="http://10.1.0.201:5180/logo/康巴卫视.png" group-title="🈳无结果频道",康巴卫视
+url
+#EXTINF:-1 tvg-id="86" tvg-name="旅游卫视" tvg-logo="http://10.1.0.201:5180/logo/旅游卫视.png" group-title="🈳无结果频道",旅游卫视
+url
+#EXTINF:-1 tvg-id="87" tvg-name="南方卫视" tvg-logo="http://10.1.0.201:5180/logo/南方卫视.png" group-title="🈳无结果频道",南方卫视
+url
+#EXTINF:-1 tvg-id="36" tvg-name="广东卫视" tvg-logo="http://10.1.0.201:5180/logo/广东卫视.png" group-title="🈳无结果频道",广东卫视
+url
+#EXTINF:-1 tvg-id="53" tvg-name="大湾区卫视" tvg-logo="http://10.1.0.201:5180/logo/大湾区卫视.png" group-title="🈳无结果频道",大湾区卫视
+url
+#EXTINF:-1 tvg-id="88" tvg-name="广州影视" tvg-logo="http://10.1.0.201:5180/logo/广州影视.png" group-title="🈳无结果频道",广州影视
+url
+#EXTINF:-1 tvg-id="89" tvg-name="江门侨乡生活" tvg-logo="http://10.1.0.201:5180/logo/江门侨乡生活.png" group-title="🈳无结果频道",江门侨乡生活
+url
+#EXTINF:-1 tvg-id="62" tvg-name="深圳卫视" tvg-logo="http://10.1.0.201:5180/logo/深圳卫视.png" group-title="🈳无结果频道",深圳卫视
+url
+#EXTINF:-1 tvg-id="90" tvg-name="汕头经济" tvg-logo="http://10.1.0.201:5180/logo/汕头经济.png" group-title="🈳无结果频道",汕头经济
+url
+#EXTINF:-1 tvg-id="91" tvg-name="汕头文旅" tvg-logo="http://10.1.0.201:5180/logo/汕头文旅.png" group-title="🈳无结果频道",汕头文旅
+url
+#EXTINF:-1 tvg-id="92" tvg-name="茂名公共" tvg-logo="http://10.1.0.201:5180/logo/茂名公共.png" group-title="🈳无结果频道",茂名公共
 url
